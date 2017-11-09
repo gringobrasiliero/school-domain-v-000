@@ -8,4 +8,7 @@ def initialize(school)
 @roster={}
 end
 
+def add_student(student, grade)
+
+end
 end
