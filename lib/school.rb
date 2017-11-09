@@ -16,3 +16,4 @@ else
   roster[grade] << student
 end
 end
+end
